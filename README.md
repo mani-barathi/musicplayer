@@ -6,4 +6,6 @@ Features include
    displaying running time,
    list which shows all songs where user can scroll select song,
    dark and light theme .
+   
+   Installed packages --> tkinter, pygame, mutagen
   
