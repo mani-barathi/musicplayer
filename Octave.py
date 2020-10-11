@@ -22,7 +22,7 @@ class musicplayer:
         self.window.resizable(0,0)
         pygame.init()
         pygame.mixer.init()
-        self.file="C:\Octave\music_files.txt"  #------------------------
+        self.file="music_files.txt"  #------------------------
         self.songtracks=list()
         self.playing=-1
         self.no=0
@@ -54,7 +54,7 @@ class musicplayer:
         self.window.config(menu=self.menubar)
         
         # icon
-        self.window.iconbitmap("H:\\Python\music_player\image\illu.ico")
+        self.window.iconbitmap("illu.ico")
         # scrollbar and listbox
         self.scrollbar = Scrollbar(self.window,bd=0)
         self.scrollbar.pack(side=RIGHT, fill=Y)
