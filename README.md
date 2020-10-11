@@ -1,4 +1,4 @@
-# musicplayer-python
+# Music Player
 This is a music player based on python, packages used are tkinter for GUI and pygame for handling audio.
 Features include
   change directory,
