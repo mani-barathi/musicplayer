@@ -1,6 +1,6 @@
 # Octave
 A music player developed using python.
-Features include switching directory, queue song, displaying running time, list which shows all songs where user can scroll and select song, swithcing dark and light theme .
+Features include switching directory, queue song, displaying running time, list which shows all songs where user can scroll and select song, switching between dark and light theme .
    
 #### Packages Used
 1. **Tkinter** for GUI
